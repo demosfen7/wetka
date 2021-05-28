@@ -1,0 +1,1 @@
+новый текст для git branch new_text
